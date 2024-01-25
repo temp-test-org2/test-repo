@@ -1,5 +1,5 @@
 {
-  "name": "test-repo",
+  "name": "@ericly2/test-repo",
   "version": "1.0.1",
   "scripts": {
     "dev": "next dev",
@@ -31,5 +31,8 @@
     "commitizen": {
       "path": "node_modules/cz-git"
     }
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
