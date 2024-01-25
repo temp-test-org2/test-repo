@@ -1,3 +1,11 @@
+## [1.0.2](https://github.com/ericly2/test-repo/compare/v1.0.1...v1.0.2) (2024-01-25)
+
+
+### Bug Fixes
+
+* **client1:** :bug: fix error in package.json ([71b1a82](https://github.com/ericly2/test-repo/commit/71b1a8282a747df2df2b81b1915ffcf4771034a7))
+* **client2:** :bug: fix incorrectly merge conflict ([1dc1051](https://github.com/ericly2/test-repo/commit/1dc10510ccf941cfa4111163ad146799a0eec587))
+
 ## [1.0.1](https://github.com/ericly2/test-repo/compare/v1.0.0...v1.0.1) (2024-01-25)
 
 
