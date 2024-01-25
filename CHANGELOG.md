@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/ericly2/test-repo/compare/v1.0.0...v1.0.1) (2024-01-25)
+
+
+### Bug Fixes
+
+* **test1:** :bug: fix error typo in npm run build ([47711d2](https://github.com/ericly2/test-repo/commit/47711d2d5fd7125d03c72998d5ffa494f55d0069))
+
 # 1.0.0 (2024-01-25)
 
 
