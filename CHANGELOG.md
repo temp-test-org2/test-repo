@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/ericly2/test-repo/compare/v1.0.2...v1.0.3) (2024-01-25)
+
+
+### Bug Fixes
+
+* **client2:** :bug: remove npm_token ([11f7b6b](https://github.com/ericly2/test-repo/commit/11f7b6b88a62b3c6ce8b918cdc7027d8de06260a))
+
 ## [1.0.2](https://github.com/ericly2/test-repo/compare/v1.0.1...v1.0.2) (2024-01-25)
 
 
