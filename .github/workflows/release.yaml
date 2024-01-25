@@ -3,6 +3,8 @@ on:
   push:
     branches:
       - main
+  repository_dispatch:
+    types: ['semantic-release'] # trigger a release with a call containg PAT token
 
 permissions:
   contents: read # for checkout
@@ -31,6 +33,9 @@ jobs:
 
       - name: Verify the integrity of provenance attestations and registry signatures for installed dependencies
         run: npm audit signatures
+
+      - name: Build
+        run: npm run Build
 
       - name: Release
         env:
