@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/ericly2/test-repo/compare/v2.0.1...v2.1.0) (2024-01-26)
+
+
+### Features
+
+* **service2:** :sparkles: enabling packages:write in action ([8fee84f](https://github.com/ericly2/test-repo/commit/8fee84ff7ea717b8cd1dfb5f0984bff6518c7749))
+
 ## [2.0.1](https://github.com/ericly2/test-repo/compare/v2.0.0...v2.0.1) (2024-01-26)
 
 
