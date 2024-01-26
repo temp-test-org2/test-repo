@@ -1,3 +1,16 @@
+# [2.3.0](https://github.com/ericly2/test-repo/compare/v2.2.1...v2.3.0) (2024-01-26)
+
+
+### Bug Fixes
+
+* **test1:** :bug: fix test1.txt ([c0102bf](https://github.com/ericly2/test-repo/commit/c0102bf61279a28014aead42ea5084c9616c1821))
+
+
+### Features
+
+* **test1:** :sparkles: add test1.txt ([5681f93](https://github.com/ericly2/test-repo/commit/5681f93901d7d7f788f92afb593d1a2e3707de95))
+* **test2:** :sparkles: add test2.xt ([50f082b](https://github.com/ericly2/test-repo/commit/50f082ba4727e811d8cbdd48a5168551cdd219f0))
+
 ## [2.2.1](https://github.com/ericly2/test-repo/compare/v2.2.0...v2.2.1) (2024-01-26)
 
 
