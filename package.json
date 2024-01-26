@@ -1,6 +1,14 @@
 {
   "name": "@ericly2/test-repo",
   "version": "1.0.2",
+  "description": "Test repo to test out semantic-release",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ericly2/test-repo"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -31,8 +39,5 @@
     "commitizen": {
       "path": "node_modules/cz-git"
     }
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
   }
 }
