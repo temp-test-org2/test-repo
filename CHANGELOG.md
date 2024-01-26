@@ -1,3 +1,10 @@
+## [2.2.1](https://github.com/ericly2/test-repo/compare/v2.2.0...v2.2.1) (2024-01-26)
+
+
+### Bug Fixes
+
+* **test2:** :bug: remove test.txt ([a634a7b](https://github.com/ericly2/test-repo/commit/a634a7bf1d0558755429db9b194506b0ac1529f5))
+
 # [2.2.0](https://github.com/ericly2/test-repo/compare/v2.1.0...v2.2.0) (2024-01-26)
 
 
