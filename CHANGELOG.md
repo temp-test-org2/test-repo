@@ -1,3 +1,11 @@
+## [2.0.1](https://github.com/ericly2/test-repo/compare/v2.0.0...v2.0.1) (2024-01-26)
+
+
+### Bug Fixes
+
+* **service1:** :bug: attempt to use NPM_TOKEN for the release ([547c31d](https://github.com/ericly2/test-repo/commit/547c31d3b37f8b464cfb9ec59ef33308daa7a5d2))
+* **test2:** :bug: try adding tokens referencing github_token ([86170b5](https://github.com/ericly2/test-repo/commit/86170b50d3a0d5a7cb279dec198c966f097e781d))
+
 # [2.0.0](https://github.com/ericly2/test-repo/compare/v1.0.3...v2.0.0) (2024-01-25)
 
 
