@@ -1,3 +1,10 @@
+## [3.0.1](https://github.com/ericly2/test-repo/compare/v3.0.0...v3.0.1) (2024-01-26)
+
+
+### Bug Fixes
+
+* **service2:** :bug: remove test1 and test2 ([#19](https://github.com/ericly2/test-repo/issues/19)) ([595659e](https://github.com/ericly2/test-repo/commit/595659ec8c2ece66f6b0a9e12a2b2c19ce589591))
+
 # [3.0.0](https://github.com/ericly2/test-repo/compare/v2.3.1...v3.0.0) (2024-01-26)
 
 
