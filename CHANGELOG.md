@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/ericly2/test-repo/compare/v2.1.0...v2.2.0) (2024-01-26)
+
+
+### Features
+
+* **client1:** :sparkles: add semantic-release/github into config ([b98e080](https://github.com/ericly2/test-repo/commit/b98e080e60d386d18084599ce572b34c748d5949))
+
 # [2.1.0](https://github.com/ericly2/test-repo/compare/v2.0.1...v2.1.0) (2024-01-26)
 
 
