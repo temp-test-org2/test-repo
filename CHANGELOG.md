@@ -1,3 +1,10 @@
+## [2.3.1](https://github.com/ericly2/test-repo/compare/v2.3.0...v2.3.1) (2024-01-26)
+
+
+### Performance Improvements
+
+* **client1:** :zap: bREAKING CHANGE: removing test2 and add ([#18](https://github.com/ericly2/test-repo/issues/18)) ([ddae228](https://github.com/ericly2/test-repo/commit/ddae2284f7c13da626919b52a876310aaf383f2e))
+
 # [2.3.0](https://github.com/ericly2/test-repo/compare/v2.2.1...v2.3.0) (2024-01-26)
 
 
