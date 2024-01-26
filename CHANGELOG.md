@@ -1,3 +1,17 @@
+# [3.0.0](https://github.com/ericly2/test-repo/compare/v2.3.1...v3.0.0) (2024-01-26)
+
+
+### Features
+
+* **test1:** :sparkles: add test1 ([32a482f](https://github.com/ericly2/test-repo/commit/32a482f24b30375f6d9321821608f9726480d525))
+* **test2:** :sparkles: add test2 ([2f6fed3](https://github.com/ericly2/test-repo/commit/2f6fed3127d05ea7a2e149b09bcc254491657122))
+
+
+### BREAKING CHANGES
+
+* **test2:** test breaking again
+* **test1:** testing triggering break
+
 ## [2.3.1](https://github.com/ericly2/test-repo/compare/v2.3.0...v2.3.1) (2024-01-26)
 
 
