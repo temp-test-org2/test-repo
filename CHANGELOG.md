@@ -1,3 +1,10 @@
+## [3.0.6](https://github.com/ericly2/test-repo/compare/v3.0.5...v3.0.6) (2024-02-02)
+
+
+### Bug Fixes
+
+* **test1:** fix scope for package Update release.yaml ([5e99a7f](https://github.com/ericly2/test-repo/commit/5e99a7f3373f1882e63234365011bf39978eb7e5))
+
 ## [3.0.5](https://github.com/ericly2/test-repo/compare/v3.0.4...v3.0.5) (2024-02-02)
 
 
