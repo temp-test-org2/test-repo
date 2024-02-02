@@ -1,3 +1,10 @@
+## [3.0.5](https://github.com/ericly2/test-repo/compare/v3.0.4...v3.0.5) (2024-02-02)
+
+
+### Bug Fixes
+
+* **test1:** trigger action Update release.yaml ([635220a](https://github.com/ericly2/test-repo/commit/635220a430e2336a2e044fbd64259d977af62532))
+
 ## [3.0.4](https://github.com/ericly2/test-repo/compare/v3.0.3...v3.0.4) (2024-02-02)
 
 
