@@ -1,3 +1,10 @@
+## [3.0.10](https://github.com/temp-test-org2/test-repo/compare/v3.0.9...v3.0.10) (2024-02-02)
+
+
+### Bug Fixes
+
+* **test1:** Update release.yaml ([cfeca3e](https://github.com/temp-test-org2/test-repo/commit/cfeca3e2980338e51ca70c9a442076c480e2649e))
+
 ## [3.0.9](https://github.com/temp-test-org2/test-repo/compare/v3.0.8...v3.0.9) (2024-02-02)
 
 
