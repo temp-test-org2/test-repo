@@ -1,3 +1,10 @@
+## [3.0.3](https://github.com/ericly2/test-repo/compare/v3.0.2...v3.0.3) (2024-02-02)
+
+
+### Bug Fixes
+
+* **test2:** 🎡 remove persist credentials ([f088047](https://github.com/ericly2/test-repo/commit/f0880474bc4b7d01d641313b1ea3f2dd60167dae))
+
 ## [3.0.2](https://github.com/ericly2/test-repo/compare/v3.0.1...v3.0.2) (2024-02-02)
 
 
