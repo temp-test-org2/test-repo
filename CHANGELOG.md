@@ -1,3 +1,10 @@
+## [3.0.4](https://github.com/ericly2/test-repo/compare/v3.0.3...v3.0.4) (2024-02-02)
+
+
+### Bug Fixes
+
+* **test1:** update release.yaml ([f00f34c](https://github.com/ericly2/test-repo/commit/f00f34c7c0963d8c2e2979e3cb34a173d9062be3))
+
 ## [3.0.3](https://github.com/ericly2/test-repo/compare/v3.0.2...v3.0.3) (2024-02-02)
 
 
