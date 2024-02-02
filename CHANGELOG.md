@@ -1,3 +1,11 @@
+## [3.0.8](https://github.com/temp-test-org2/test-repo/compare/v3.0.7...v3.0.8) (2024-02-02)
+
+
+### Bug Fixes
+
+* **test1:** persist-credentials false Update release.yaml ([27bec41](https://github.com/temp-test-org2/test-repo/commit/27bec41f915c3faaa743e90049f673c3b8fb7901))
+* **test2:** add organization token Update release.yaml ([b89d2fa](https://github.com/temp-test-org2/test-repo/commit/b89d2fa8361309b090a46d3108aff2f6e162f894))
+
 ## [3.0.7](https://github.com/temp-test-org2/test-repo/compare/v3.0.6...v3.0.7) (2024-02-02)
 
 
