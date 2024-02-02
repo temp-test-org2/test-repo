@@ -1,9 +1,9 @@
 {
-  "name": "@ericly2/test-repo",
+  "name": "@temp-test-org2/test-repo",
   "description": "Test repo to test out semantic-release",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ericly2/test-repo"
+    "url": "https://github.com/temp-test-org2/test-repo"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
