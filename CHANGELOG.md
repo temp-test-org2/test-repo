@@ -1,3 +1,10 @@
+## [3.0.7](https://github.com/temp-test-org2/test-repo/compare/v3.0.6...v3.0.7) (2024-02-02)
+
+
+### Bug Fixes
+
+* **test1:** update package.json to temp-test-org2 Update package.json ([459fd59](https://github.com/temp-test-org2/test-repo/commit/459fd591003940033789297ed6f97f6c538d4d1c))
+
 ## [3.0.6](https://github.com/ericly2/test-repo/compare/v3.0.5...v3.0.6) (2024-02-02)
 
 
