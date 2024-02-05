@@ -32,6 +32,8 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.PAT_TEST_TEMP_ORG2_PACKAGE_READ }}
 
       - name: Release
         run: npx semantic-release
