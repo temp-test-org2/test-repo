@@ -1,3 +1,10 @@
+# [3.2.0](https://github.com/temp-test-org2/test-repo/compare/v3.1.0...v3.2.0) (2024-02-05)
+
+
+### Features
+
+* **test1:** :sparkles: add NODE_AUTH_TOKEN ([5aeaa14](https://github.com/temp-test-org2/test-repo/commit/5aeaa14db285be7396d8210a639240230c17826a))
+
 # [3.1.0](https://github.com/temp-test-org2/test-repo/compare/v3.0.10...v3.1.0) (2024-02-05)
 
 
