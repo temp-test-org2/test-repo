@@ -35,6 +35,12 @@ jobs:
         env:
           NODE_AUTH_TOKEN: ${{ secrets.ORG_PAT_TEST_TEMP_ORG2_PACKAGE_READ }}
 
+      - name: Verify the integrity of provenance attestations and registry signatures for installed dependencies
+        run: npm audit signatures
+
+      - name: Build
+        run: npm run build
+        
       - name: Release
         run: npx semantic-release
         env:
