@@ -1,3 +1,19 @@
+## [3.3.3](https://github.com/temp-test-org2/test-repo/compare/v3.3.2...v3.3.3) (2024-02-05)
+
+
+### Bug Fixes
+
+* **service2:** :bug: add release version ([14629da](https://github.com/temp-test-org2/test-repo/commit/14629da3f154f21e89b11c1ded89a4cecae76627))
+* **service2:** :bug: update regex ([7812cd8](https://github.com/temp-test-org2/test-repo/commit/7812cd838beff048a26e45d5325b414373928aea))
+* **test1:** :bug: add HEAD_REF ([734bad7](https://github.com/temp-test-org2/test-repo/commit/734bad7678f9797f084fa6880511fb4e34acc3ee))
+* **test1:** :bug: missing $ ([9720d88](https://github.com/temp-test-org2/test-repo/commit/9720d8828355959081c7c67d3caf696b8e59812b))
+* **test1:** :bug: point against main ([2450887](https://github.com/temp-test-org2/test-repo/commit/2450887defe45a850ad1ef2395c3f1f1fe0bc23d))
+* **test1:** :bug: test new cli code ([2510648](https://github.com/temp-test-org2/test-repo/commit/25106480eb220e2a77077e73562bd2b85cf7e490))
+* **test1:** :bug: test removing branches ([0caec2d](https://github.com/temp-test-org2/test-repo/commit/0caec2da5d30ce82fad4d44fb4f197e433df00e2))
+* **test1:** :bug: try using branches -- main ([2fcb121](https://github.com/temp-test-org2/test-repo/commit/2fcb121079563b77af8a68b925aef6da1a03f272))
+* **test1:** :bug: using github_ref ([5c30e3b](https://github.com/temp-test-org2/test-repo/commit/5c30e3b1ad2e362d04cb33ac0a9eac1cbf4ef876))
+* **test2:** :bug: add unset and dry run flags ([04b7a87](https://github.com/temp-test-org2/test-repo/commit/04b7a8799e960a80d89730a6533ac581c912e1b5))
+
 ## [3.3.2](https://github.com/temp-test-org2/test-repo/compare/v3.3.1...v3.3.2) (2024-02-05)
 
 
