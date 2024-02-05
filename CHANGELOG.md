@@ -1,3 +1,11 @@
+## [3.3.5](https://github.com/temp-test-org2/test-repo/compare/v3.3.4...v3.3.5) (2024-02-05)
+
+
+### Bug Fixes
+
+* **test1:** :bug: add back GITHUB_TOKEN ([6d3f844](https://github.com/temp-test-org2/test-repo/commit/6d3f844f2c99e094076344cad90ab434b4d89103))
+* **test1:** :bug: test without GITHUB_TOKEN ([2040991](https://github.com/temp-test-org2/test-repo/commit/20409919e635c2a94cfe40d4bc47c9f49d3ea31a))
+
 ## [3.3.4](https://github.com/temp-test-org2/test-repo/compare/v3.3.3...v3.3.4) (2024-02-05)
 
 
