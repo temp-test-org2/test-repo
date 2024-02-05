@@ -1,3 +1,11 @@
+# [3.3.0](https://github.com/temp-test-org2/test-repo/compare/v3.2.0...v3.3.0) (2024-02-05)
+
+
+### Features
+
+* **service1:** :sparkles: add npmrc and internal npm package ([a12050e](https://github.com/temp-test-org2/test-repo/commit/a12050e83b7c2e75482407c05f356089e9e6a0d7))
+* **service2:** :sparkles: add pat read token ([8299245](https://github.com/temp-test-org2/test-repo/commit/829924594e2438c7bf74fc2acd436b926b5d09a5))
+
 # [3.2.0](https://github.com/temp-test-org2/test-repo/compare/v3.1.0...v3.2.0) (2024-02-05)
 
 
