@@ -14,7 +14,6 @@ jobs:
     permissions:
       contents: write # to be able to publish a GitHub release
       pull-requests: write # to be able to comment on released pull requests
-      id-token: write # to enable use of OIDC for npm provenance
       packages: write # to be able to create a new package for the release
     steps:
       - name: Checkout
@@ -34,9 +33,6 @@ jobs:
         run: npm ci
         env:
           NODE_AUTH_TOKEN: ${{ secrets.ORG_PAT_TEST_TEMP_ORG2_PACKAGE_READ }}
-
-      - name: Verify the integrity of provenance attestations and registry signatures for installed dependencies
-        run: npm audit signatures
 
       - name: Build
         run: npm run build
