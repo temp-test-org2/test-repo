@@ -16,6 +16,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@temp-test-org2/test-library": "1.1.0",
     "next": "14.1.0",
     "react": "^18",
     "react-dom": "^18"
