@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/temp-test-org2/test-repo/compare/v3.0.10...v3.1.0) (2024-02-05)
+
+
+### Features
+
+* **service1:** :sparkles: update to use GITHUB_TOKEN ([83473a5](https://github.com/temp-test-org2/test-repo/commit/83473a51004ca2dc87d45d4860d8fed14f366d60))
+
 ## [3.0.10](https://github.com/temp-test-org2/test-repo/compare/v3.0.9...v3.0.10) (2024-02-02)
 
 
