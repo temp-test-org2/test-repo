@@ -1,3 +1,11 @@
+## [3.3.4](https://github.com/temp-test-org2/test-repo/compare/v3.3.3...v3.3.4) (2024-02-05)
+
+
+### Bug Fixes
+
+* **test1:** :bug: add missing $ ([f3c4c39](https://github.com/temp-test-org2/test-repo/commit/f3c4c39e51417e5db66f2039337177ad5ce366d0))
+* **test1:** :bug: test out without unset ([899e9fe](https://github.com/temp-test-org2/test-repo/commit/899e9feb7f584e8dfceda6d9f3f9e043c133c12b))
+
 ## [3.3.3](https://github.com/temp-test-org2/test-repo/compare/v3.3.2...v3.3.3) (2024-02-05)
 
 
