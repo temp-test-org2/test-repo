@@ -1,3 +1,11 @@
+## [3.3.2](https://github.com/temp-test-org2/test-repo/compare/v3.3.1...v3.3.2) (2024-02-05)
+
+
+### Bug Fixes
+
+* **test3:** add audit and build Update release.yaml ([52c20ab](https://github.com/temp-test-org2/test-repo/commit/52c20ab056a4b99e68f99dd8a4364614027f5a6a))
+* **test3:** remove npm provenace since we're using private repo Update release.yaml ([24278fc](https://github.com/temp-test-org2/test-repo/commit/24278fca8ebf76d87ec400c474e0526403090686))
+
 ## [3.3.1](https://github.com/temp-test-org2/test-repo/compare/v3.3.0...v3.3.1) (2024-02-05)
 
 
