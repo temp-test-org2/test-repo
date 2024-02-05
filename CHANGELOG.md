@@ -1,3 +1,10 @@
+## [3.3.1](https://github.com/temp-test-org2/test-repo/compare/v3.3.0...v3.3.1) (2024-02-05)
+
+
+### Bug Fixes
+
+* **test2:** update to org token Update release.yaml ([2933c15](https://github.com/temp-test-org2/test-repo/commit/2933c15ef1b3adbd9734227705108178caf4c7d7))
+
 # [3.3.0](https://github.com/temp-test-org2/test-repo/compare/v3.2.0...v3.3.0) (2024-02-05)
 
 
