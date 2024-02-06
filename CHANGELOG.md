@@ -1,3 +1,13 @@
+## [3.3.6](https://github.com/temp-test-org2/test-repo/compare/v3.3.5...v3.3.6) (2024-02-06)
+
+
+### Bug Fixes
+
+* **client1:** :bug: add ci and jest and tests ([#22](https://github.com/temp-test-org2/test-repo/issues/22)) ([2831433](https://github.com/temp-test-org2/test-repo/commit/28314330ffa78374b29f827172fd7769228eb414))
+* **test1:** :bug: add GH_TOKEN ([#24](https://github.com/temp-test-org2/test-repo/issues/24)) ([0c67978](https://github.com/temp-test-org2/test-repo/commit/0c679785ff26b5f2c9f8005e711abf2125b8df75))
+* **test1:** :bug: fix action failing due to branch protection ([#23](https://github.com/temp-test-org2/test-repo/issues/23)) ([e1a47af](https://github.com/temp-test-org2/test-repo/commit/e1a47afb14dd6ae93544b592e28d2166b2eaec2d))
+* **test1:** :bug: remove GH_TOKEN to test if it works with branch protection disabled ([#25](https://github.com/temp-test-org2/test-repo/issues/25)) ([3d88106](https://github.com/temp-test-org2/test-repo/commit/3d8810643da3a12816ec79f0e9a4df9e2b2896d5))
+
 ## [3.3.5](https://github.com/temp-test-org2/test-repo/compare/v3.3.4...v3.3.5) (2024-02-05)
 
 
