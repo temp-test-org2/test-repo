@@ -1,3 +1,17 @@
+# [3.4.0](https://github.com/temp-test-org2/test-repo/compare/v3.3.6...v3.4.0) (2024-02-07)
+
+
+### Bug Fixes
+
+* **test1:** :bug: add node_auth_token as generate_token ([#28](https://github.com/temp-test-org2/test-repo/issues/28)) ([49f55bd](https://github.com/temp-test-org2/test-repo/commit/49f55bdc958ce7201311315f3a1696c7e31b9adf))
+
+
+### Features
+
+* **service2:** :sparkles: add semantic-pull-request ([#26](https://github.com/temp-test-org2/test-repo/issues/26)) ([6b22231](https://github.com/temp-test-org2/test-repo/commit/6b2223188ffd701410c0b6934b3fee5bc7a0338d))
+* **test1:** :sparkles: adding ericlyeric bot as admin ([#29](https://github.com/temp-test-org2/test-repo/issues/29)) ([64eacc0](https://github.com/temp-test-org2/test-repo/commit/64eacc0b10d428b98c8d0d40a6565bc004139cc3))
+* **test1:** :sparkles: test out using github app ([#27](https://github.com/temp-test-org2/test-repo/issues/27)) ([a1bb4f0](https://github.com/temp-test-org2/test-repo/commit/a1bb4f0658cd1ba642feac41b92ca6755bd8a207))
+
 ## [3.3.6](https://github.com/temp-test-org2/test-repo/compare/v3.3.5...v3.3.6) (2024-02-06)
 
 
