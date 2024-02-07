@@ -1,3 +1,22 @@
+# [3.5.0](https://github.com/temp-test-org2/test-repo/compare/v3.4.0...v3.5.0) (2024-02-07)
+
+
+### Bug Fixes
+
+* **test1:** :bug: need to rename to .releaserc.js due to breaking change ([#35](https://github.com/temp-test-org2/test-repo/issues/35)) ([fb95da2](https://github.com/temp-test-org2/test-repo/commit/fb95da26fb65cb6b99aaac6561f55cf53a6c326a))
+* **test1:** :bug: update committer name to ericlyeric ([#34](https://github.com/temp-test-org2/test-repo/issues/34)) ([410c66b](https://github.com/temp-test-org2/test-repo/commit/410c66bb86503b6307f9910fdf4c9b4b4baf97a8))
+
+
+### Features
+
+* **test1:** :sparkles: add commit and author as env ([#32](https://github.com/temp-test-org2/test-repo/issues/32)) ([3ed3933](https://github.com/temp-test-org2/test-repo/commit/3ed3933f361436978cec268a87ab3ca876c337f3))
+* **test1:** :sparkles: remove committer details ([#39](https://github.com/temp-test-org2/test-repo/issues/39)) ([37900f9](https://github.com/temp-test-org2/test-repo/commit/37900f9d1cfffef001cd6d182154d263186f2a9c))
+* **test1:** :sparkles: remove doc.txt ([#31](https://github.com/temp-test-org2/test-repo/issues/31)) ([eb017bd](https://github.com/temp-test-org2/test-repo/commit/eb017bdc775783af1a124eaf75da69905648a63d))
+* **test1:** :sparkles: reorder the .releaserc.js ([#36](https://github.com/temp-test-org2/test-repo/issues/36)) ([81958de](https://github.com/temp-test-org2/test-repo/commit/81958deb5f3932fdb5e208d7e6cd3ee9c116331e))
+* **test1:** :sparkles: set persist credentials to false ([#38](https://github.com/temp-test-org2/test-repo/issues/38)) ([1292668](https://github.com/temp-test-org2/test-repo/commit/129266864960bf229186da7e4ae34a37b5ba73a8))
+* **test1:** :sparkles: update branches to main ([#33](https://github.com/temp-test-org2/test-repo/issues/33)) ([59f606f](https://github.com/temp-test-org2/test-repo/commit/59f606f6ba8e601e601fc70a4c79a56da9152bc8))
+* **test2:** :sparkles: update author and committer to ericly ([#37](https://github.com/temp-test-org2/test-repo/issues/37)) ([9b6ee54](https://github.com/temp-test-org2/test-repo/commit/9b6ee5475e13230ca0ca13e5dab24960c4495be9))
+
 # [3.4.0](https://github.com/temp-test-org2/test-repo/compare/v3.3.6...v3.4.0) (2024-02-07)
 
 
