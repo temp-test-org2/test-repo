@@ -16,18 +16,11 @@ jobs:
       pull-requests: write # to be able to comment on released pull requests
       packages: write # to be able to create a new package for the release
     steps:
-      - name: Generate token
-        id: generate_token
-        uses: tibdex/github-app-token@v1
-        with:
-          app_id: ${{ secrets.APP_ID }}
-          private_key: ${{ secrets.PRIVATE_KEY }}
-
       - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          token: ${{ steps.generate_token.outputs.token }}
+          token: ${{ secrets.ERICLYERIC_BOT_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -48,7 +41,7 @@ jobs:
           NEW_RELEASE_VERSION=$(echo "$OUTPUT" | grep -oP 'The next release version is \K(\d+\.\d+\.\d+)')
           echo "new-release-version=$NEW_RELEASE_VERSION" >> "$GITHUB_OUTPUT"
         env:
-          GITHUB_TOKEN: ${{ steps.generate_token.outputs.token }}
+          GITHUB_TOKEN: ${{ secrets.ERICLYERIC_BOT_TOKEN }}
 
       - name: Use the version
         run: echo "The version is ${{ steps.release-version.outputs.new-release-version }}"
@@ -56,6 +49,6 @@ jobs:
       - name: Release
         run: npx semantic-release
         env:
-          GITHUB_TOKEN: ${{ steps.generate_token.outputs.token }}
+          GITHUB_TOKEN: ${{ secrets.ERICLYERIC_BOT_TOKEN}}
           NPM_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NODE_AUTH_TOKEN: ${{ steps.generate_token.outputs.token }}
+          NODE_AUTH_TOKEN: ${{ secrets.ERICLYERIC_BOT_TOKEN }}
