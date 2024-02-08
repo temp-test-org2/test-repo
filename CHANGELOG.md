@@ -1,3 +1,10 @@
+# [3.6.0](https://github.com/temp-test-org2/test-repo/compare/v3.5.0...v3.6.0) (2024-02-08)
+
+
+### Features
+
+* **test1:** :sparkles: add toekn and comitter email of moderator ([#40](https://github.com/temp-test-org2/test-repo/issues/40)) ([b17e89c](https://github.com/temp-test-org2/test-repo/commit/b17e89c26e20036e139067a8d26f54b865106b9d))
+
 # [3.5.0](https://github.com/temp-test-org2/test-repo/compare/v3.4.0...v3.5.0) (2024-02-07)
 
 
