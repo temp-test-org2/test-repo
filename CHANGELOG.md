@@ -1,3 +1,17 @@
+## [3.7.2](https://github.com/temp-test-org2/test-repo/compare/v3.7.1...v3.7.2) (2024-02-08)
+
+
+### Bug Fixes
+
+* **test1:** :bug: delete test.txt ([#43](https://github.com/temp-test-org2/test-repo/issues/43)) ([46074b2](https://github.com/temp-test-org2/test-repo/commit/46074b25667b5abf59c80e25b458c49cf057a93f))
+
+## [3.7.1](https://github.com/temp-test-org2/test-repo/compare/v3.7.0...v3.7.1) (2024-02-08)
+
+
+### Bug Fixes
+
+* **test1:** :bug: add text.txt ([#42](https://github.com/temp-test-org2/test-repo/issues/42)) ([74a12d3](https://github.com/temp-test-org2/test-repo/commit/74a12d35e5ca04ae658eedb4a785fe25c20f204f))
+
 # [3.7.0](https://github.com/temp-test-org2/test-repo/compare/v3.6.0...v3.7.0) (2024-02-08)
 
 
