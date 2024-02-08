@@ -1,3 +1,10 @@
+## [3.7.1](https://github.com/temp-test-org2/test-repo/compare/v3.7.0...v3.7.1) (2024-02-08)
+
+
+### Bug Fixes
+
+* **test1:** :bug: add text.txt ([#42](https://github.com/temp-test-org2/test-repo/issues/42)) ([74a12d3](https://github.com/temp-test-org2/test-repo/commit/74a12d35e5ca04ae658eedb4a785fe25c20f204f))
+
 # [3.7.0](https://github.com/temp-test-org2/test-repo/compare/v3.6.0...v3.7.0) (2024-02-08)
 
 
