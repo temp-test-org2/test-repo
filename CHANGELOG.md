@@ -1,3 +1,10 @@
+# [3.7.0](https://github.com/temp-test-org2/test-repo/compare/v3.6.0...v3.7.0) (2024-02-08)
+
+
+### Features
+
+* **test1:** :sparkles: modify pull_request to trigger ([#41](https://github.com/temp-test-org2/test-repo/issues/41)) ([4d3d008](https://github.com/temp-test-org2/test-repo/commit/4d3d008ad98587718d49e95d03e02eeebf483895))
+
 # [3.6.0](https://github.com/temp-test-org2/test-repo/compare/v3.5.0...v3.6.0) (2024-02-08)
 
 
