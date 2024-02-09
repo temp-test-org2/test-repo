@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   release-please:
-    name: Release local
+    name: Release
     runs-on: ubuntu-latest
     steps:
       - name: Checkout

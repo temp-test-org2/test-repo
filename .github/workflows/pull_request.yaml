@@ -16,7 +16,7 @@ on:
 
 jobs:
   title:
-    name: Validate PR title local
+    name: Validate PR title
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
