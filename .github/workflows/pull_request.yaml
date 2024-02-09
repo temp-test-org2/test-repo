@@ -23,6 +23,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+  local-title:
+    name: Validate PR title local
+    runs-on: ubuntu-latest
+    steps:
+      - uses: ./.github/actions/action.yml
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
   tests:
     name: Tests
     runs-on: ubuntu-latest
