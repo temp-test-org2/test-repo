@@ -5,6 +5,29 @@
 
 * **test1:** :bug: delete test.txt ([#43](https://github.com/temp-test-org2/test-repo/issues/43)) ([46074b2](https://github.com/temp-test-org2/test-repo/commit/46074b25667b5abf59c80e25b458c49cf057a93f))
 
+## [4.0.0](https://github.com/temp-test-org2/test-repo/compare/v3.7.2...v4.0.0) (2024-02-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* **test1:** This is a breaking change
+* **test1:** This is a breaking change
+
+### Features
+
+* **test1:** :sparkles: add BOT token to trigger workflow runs ([#51](https://github.com/temp-test-org2/test-repo/issues/51)) ([f68e6d1](https://github.com/temp-test-org2/test-repo/commit/f68e6d110391977917a23e57a45bdb26c9cf9434))
+* **test1:** :sparkles: add breaking change  BREAKING CHANGE: This is a breaking change ([#50](https://github.com/temp-test-org2/test-repo/issues/50)) ([541ef4c](https://github.com/temp-test-org2/test-repo/commit/541ef4c97f098fe700c17dae87b2a4ea0285dac4))
+* **test1:** :sparkles: add release please and test type simple with ([#45](https://github.com/temp-test-org2/test-repo/issues/45)) ([673b824](https://github.com/temp-test-org2/test-repo/commit/673b824efe0a497592bee27a5f55df5fad63bb2b))
+* **test1:** :sparkles: add release please and test type simple with GITHUB_TOKEN ([673b824](https://github.com/temp-test-org2/test-repo/commit/673b824efe0a497592bee27a5f55df5fad63bb2b))
+* **test1:** :sparkles: test pushing directly to main ([d694218](https://github.com/temp-test-org2/test-repo/commit/d6942180534e6d65929f7616ccf4be1e786bc299))
+* **test1:** :sparkles: test using release-type node ([#47](https://github.com/temp-test-org2/test-repo/issues/47)) ([97dc077](https://github.com/temp-test-org2/test-repo/commit/97dc0773e7c8eb64933e208d75bb318195395c11))
+
+
+### Bug Fixes
+
+* **test1:** :bug: should fail on release ([#44](https://github.com/temp-test-org2/test-repo/issues/44)) ([645af4e](https://github.com/temp-test-org2/test-repo/commit/645af4e943cbb53c9c811e0b461007a8d039699d))
+* **test1:** :bug: trigger release again to see if it creates a new PR ([#49](https://github.com/temp-test-org2/test-repo/issues/49)) ([8efd36d](https://github.com/temp-test-org2/test-repo/commit/8efd36d75c96f802985703e42bbe586c0f7f0e54))
+
 ## [3.7.1](https://github.com/temp-test-org2/test-repo/compare/v3.7.0...v3.7.1) (2024-02-08)
 
 
