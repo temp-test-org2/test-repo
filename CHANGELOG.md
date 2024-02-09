@@ -5,6 +5,13 @@
 
 * **test1:** :bug: delete test.txt ([#43](https://github.com/temp-test-org2/test-repo/issues/43)) ([46074b2](https://github.com/temp-test-org2/test-repo/commit/46074b25667b5abf59c80e25b458c49cf057a93f))
 
+## [4.0.1](https://github.com/temp-test-org2/test-repo/compare/v4.0.0...v4.0.1) (2024-02-09)
+
+
+### Bug Fixes
+
+* **test1:** :bug: add release please locally ([#52](https://github.com/temp-test-org2/test-repo/issues/52)) ([28b2674](https://github.com/temp-test-org2/test-repo/commit/28b267411414a459a50ad486cd3b6932e9943357))
+
 ## [4.0.0](https://github.com/temp-test-org2/test-repo/compare/v3.7.2...v4.0.0) (2024-02-09)
 
 
