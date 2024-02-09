@@ -8,7 +8,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
-  "version": "4.0.1",
+  "version": "4.1.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

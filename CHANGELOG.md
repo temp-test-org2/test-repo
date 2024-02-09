@@ -5,6 +5,13 @@
 
 * **test1:** :bug: delete test.txt ([#43](https://github.com/temp-test-org2/test-repo/issues/43)) ([46074b2](https://github.com/temp-test-org2/test-repo/commit/46074b25667b5abf59c80e25b458c49cf057a93f))
 
+## [4.1.0](https://github.com/temp-test-org2/test-repo/compare/v4.0.1...v4.1.0) (2024-02-09)
+
+
+### Features
+
+* **test1:** :sparkles: add feat to try to trigger commit to main ([#54](https://github.com/temp-test-org2/test-repo/issues/54)) ([7d6d40e](https://github.com/temp-test-org2/test-repo/commit/7d6d40eb11722edd42e668f5a03544538fd98c17))
+
 ## [4.0.1](https://github.com/temp-test-org2/test-repo/compare/v4.0.0...v4.0.1) (2024-02-09)
 
 
