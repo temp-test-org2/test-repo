@@ -30,7 +30,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - uses: ./.github/actions/action.yml
+      - uses: ./.github/actions/semnatic-pull-request
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
