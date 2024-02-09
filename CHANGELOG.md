@@ -5,6 +5,20 @@
 
 * **test1:** :bug: delete test.txt ([#43](https://github.com/temp-test-org2/test-repo/issues/43)) ([46074b2](https://github.com/temp-test-org2/test-repo/commit/46074b25667b5abf59c80e25b458c49cf057a93f))
 
+## [3.8.0](https://github.com/temp-test-org2/test-repo/compare/v3.7.2...v3.8.0) (2024-02-09)
+
+
+### Features
+
+* **test1:** :sparkles: add release please and test type simple with ([#45](https://github.com/temp-test-org2/test-repo/issues/45)) ([673b824](https://github.com/temp-test-org2/test-repo/commit/673b824efe0a497592bee27a5f55df5fad63bb2b))
+* **test1:** :sparkles: add release please and test type simple with GITHUB_TOKEN ([673b824](https://github.com/temp-test-org2/test-repo/commit/673b824efe0a497592bee27a5f55df5fad63bb2b))
+* **test1:** :sparkles: test pushing directly to main ([d694218](https://github.com/temp-test-org2/test-repo/commit/d6942180534e6d65929f7616ccf4be1e786bc299))
+
+
+### Bug Fixes
+
+* **test1:** :bug: should fail on release ([#44](https://github.com/temp-test-org2/test-repo/issues/44)) ([645af4e](https://github.com/temp-test-org2/test-repo/commit/645af4e943cbb53c9c811e0b461007a8d039699d))
+
 ## [3.7.1](https://github.com/temp-test-org2/test-repo/compare/v3.7.0...v3.7.1) (2024-02-08)
 
 
