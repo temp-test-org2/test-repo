@@ -5,47 +5,20 @@ on:
       - main
 
 permissions:
-  contents: read # for checkout
+  contents: write
+  pull-requests: write
 
 jobs:
-  release:
+  release-please:
     name: Release
     runs-on: ubuntu-latest
-    permissions:
-      contents: write # to be able to publish a GitHub release
-      pull-requests: write # to be able to comment on released pull requests
-      packages: write # to be able to create a new package for the release
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: google-github-actions/release-please-action@v4
         with:
-          fetch-depth: 0
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20.x'
-          scope: '@temp-test-org2'
-          registry-url: https://npm.pkg.github.com/
-
-      - name: Install dependencies
-        run: npm ci
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.ORG_PAT_TEST_TEMP_ORG2_PACKAGE_READ }}
-
-      - name: Get release version
-        id: release-version
-        run: |
-          OUTPUT=$(npx semantic-release --dry-run --no-ci --branches main)
-          NEW_RELEASE_VERSION=$(echo "$OUTPUT" | grep -oP 'The next release version is \K(\d+\.\d+\.\d+)')
-          echo "new-release-version=$NEW_RELEASE_VERSION" >> "$GITHUB_OUTPUT"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Use the version
-        run: echo "The version is ${{ steps.release-version.outputs.new-release-version }}"
-
-      - name: Release
-        run: npx semantic-release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # this assumes that you have created a personal access token
+          # (PAT) and configured it as a GitHub action secret named
+          # `MY_RELEASE_PLEASE_TOKEN` (this secret name is not important).
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # this is a built-in strategy in release-please, see "Action Inputs"
+          # for more options
+          release-type: simple
