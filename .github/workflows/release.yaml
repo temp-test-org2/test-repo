@@ -13,13 +13,11 @@ jobs:
     name: Release
     runs-on: ubuntu-latest
     steps:
-      - uses: google-github-actions/release-please-action@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Release please
+        uses: ./.github/actions/release-please/
         with:
-          # this assumes that you have created a personal access token
-          # (PAT) and configured it as a GitHub action secret named
-          # `MY_RELEASE_PLEASE_TOKEN` (this secret name is not important).
-          # use PAT token if you want CI checks to run automatically
           token: ${{ secrets.ERICLYERIC_BOT_TOKEN }}
-          # this is a built-in strategy in release-please, see "Action Inputs"
-          # for more options
           release-type: node
