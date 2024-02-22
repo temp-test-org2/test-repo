@@ -24,7 +24,9 @@ jobs:
 
       - uses: amannn/action-semantic-pull-request@v5
         with:
-          requireScope: /\b[AWN,awn]+-[1-9][0-9]*/g
+          subjectPattern: \b[AWN,awn]+-[1-9][0-9]*
+          subjectPatternError: |
+            The subject in the PR title must contain a valid Jira ticket (eg. AWN-123456)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
