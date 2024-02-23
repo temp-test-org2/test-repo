@@ -24,7 +24,7 @@ jobs:
 
       - uses: amannn/action-semantic-pull-request@v5
         with:
-          subjectPattern: /.*\(AWN-[1-9][0-9]*\)/g
+          subjectPattern: .*\(AWN-[1-9][0-9]*\)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
