@@ -24,6 +24,7 @@ jobs:
 
       - uses: amannn/action-semantic-pull-request@v5
         id: is-valid
+        continue-on-error: true
         with:
           subjectPattern: (?<subject1>.*)(?<jira1>\(AWN-[1-9][0-9]*\))
           subjectPatternError: |
@@ -31,11 +32,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Script ${{steps.is-valid}}
-        run: echo ${{steps.is-valid}}
+      - name: Script check steps condition false
+        if: ${{ steps.is-valid.outcome != 'success' }}
+        run: echo ${{ steps.is-valid.outcome }}
 
-      - name: Script 2 ${{steps.is-valid.outcome}}
-        run: echo ${{steps.is-valid.outcome}}
+      - name: Script check steps condition true
+        if: ${{ steps.is-valid.outcome == 'success' }}
+        run: echo ${{ steps.is-valid.outcome }}
 
   tests:
     name: Tests
